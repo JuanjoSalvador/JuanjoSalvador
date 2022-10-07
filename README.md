@@ -12,5 +12,3 @@ I'm Python Backend Developer, with sysadmin skills, who loves making videogames 
 * Learning about GraphQL and microservices architecture.
 
 Want to know more? Check [my portofolio here](https://jsalvador.me/).
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JuanjoSalvador&show_icons=true&include_all_commits=true)](https://github.com/JuanjoSalvador/github-readme-stats)
