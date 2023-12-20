@@ -5,7 +5,7 @@
 </a>
 <br><br>
 
-I'm Python Backend Developer, with sysadmin skills, who loves making videogames and learning. Currently working at Cathedral Software.
+I'm Python Backend Developer, with sysadmin skills, who loves making videogames and learning.
 
 ## Side Projects
 * [Andalucia Dev Jobs](https://github.com/JuanjoSalvador/ad-jobs), a job ads publishing platform built for our developers community.
