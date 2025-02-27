@@ -1,9 +1,10 @@
 ## Hey 👋, this is Juanjo Salvador
 
-<a href="https://twitter.com/linuxneitor">
-  <img align="left" alt="Juanjo Salvador twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://mastodon.social/@jsalvador">
+  <img align="center" alt="Juanjo Salvador at Mastodon.social" width="21px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/207_Mastodon-32.png" />
 </a>
-<br><br>
+
+<br/><br/>
 
 I'm a Software Developer who likes Python, loves Django and is always learning new things. In my toolbox you can also find Vue, Nuxt, CSS, Docker and microservices, among other skills.
 
